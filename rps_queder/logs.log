@@ -1,0 +1,30 @@
+[07/Jan/2022 08:33:24] DEBUG [spsapp.views:43] Both players selected. It's a tie!
+[07/Jan/2022 08:33:26] DEBUG [spsapp.views:43] Both players selected. It's a tie!
+[07/Jan/2022 08:33:26] DEBUG [spsapp.views:54] Paper covers rock! You lose.
+[07/Jan/2022 08:38:45] DEBUG [spsapp.views:49] Rock smashes scissors! You win! - Actions: Bot - scissors User - rock
+[07/Jan/2022 08:38:45] DEBUG [spsapp.views:59] Paper covers rock! You win! Actions: Bot - rock User - paper
+[07/Jan/2022 08:38:46] DEBUG [spsapp.views:70] Scissors cuts paper! You win! Actions: Bot - paper User - scissors
+[07/Jan/2022 08:38:47] DEBUG [spsapp.views:43] Both players selected. It's a tie!
+[07/Jan/2022 08:38:48] DEBUG [spsapp.views:43] Both players selected. It's a tie!
+[07/Jan/2022 08:38:49] DEBUG [spsapp.views:64] Scissors cuts paper! You lose. Actions: Bot - scissors User - paper
+[07/Jan/2022 08:38:49] DEBUG [spsapp.views:74] Rock smashes scissors! You lose. Actions: Bot - rock User - scissors
+[07/Jan/2022 08:38:50] DEBUG [spsapp.views:64] Scissors cuts paper! You lose. Actions: Bot - scissors User - paper
+[07/Jan/2022 08:38:51] DEBUG [spsapp.views:54] Paper covers rock! You lose. Actions: Bot - paper User - rock
+[07/Jan/2022 08:38:51] DEBUG [spsapp.views:64] Scissors cuts paper! You lose. Actions: Bot - scissors User - paper
+[07/Jan/2022 08:38:52] DEBUG [spsapp.views:43] Both players selected. It's a tie!
+[07/Jan/2022 08:38:53] DEBUG [spsapp.views:43] Both players selected. It's a tie!
+[07/Jan/2022 08:38:54] DEBUG [spsapp.views:70] Scissors cuts paper! You win! Actions: Bot - paper User - scissors
+[07/Jan/2022 08:38:54] DEBUG [spsapp.views:64] Scissors cuts paper! You lose. Actions: Bot - scissors User - paper
+[11/Jan/2023 13:37:49] DEBUG [spsapp.views:44] Both players selected. It's a tie!
+[11/Jan/2023 13:37:55] DEBUG [spsapp.views:50] Rock smashes scissors! You win! - Actions: Bot - scissors User - rock
+[11/Jan/2023 13:37:58] DEBUG [spsapp.views:44] Both players selected. It's a tie!
+[11/Jan/2023 13:38:00] DEBUG [spsapp.views:44] Both players selected. It's a tie!
+[11/Jan/2023 13:38:03] DEBUG [spsapp.views:64] Scissors cuts paper! You lose. Actions: Bot - scissors User - paper
+[12/Jan/2023 13:16:22] DEBUG [spsapp.views:44] Both players selected. It's a tie!
+[12/Jan/2023 13:16:25] DEBUG [spsapp.views:54] Paper covers rock! You lose. Actions: Bot - paper User - rock
+[12/Jan/2023 13:16:26] DEBUG [spsapp.views:70] Scissors cuts paper! You win! Actions: Bot - paper User - scissors
+[12/Jan/2023 13:16:29] DEBUG [spsapp.views:44] Both players selected. It's a tie!
+[12/Jan/2023 13:16:31] DEBUG [spsapp.views:70] Scissors cuts paper! You win! Actions: Bot - paper User - scissors
+[12/Jan/2023 15:09:54] DEBUG [spsapp.views:60] Paper covers rock! You win! Actions: Bot - rock User - paper
+[12/Jan/2023 15:45:40] DEBUG [spsapp.views:44] Both players selected. It's a tie!
+[12/Jan/2023 15:45:43] DEBUG [spsapp.views:44] Both players selected. It's a tie!
